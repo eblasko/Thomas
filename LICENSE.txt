@@ -1,0 +1,12 @@
+                  THOMAS' GITHUB PUBLIC LICENSE 
+                  version 1.0, October 7th, 2019
+                  
+Copyright (C) 2019 Elliot, Tom, and Tom LLC <emb210@pitt.edu>
+
+Any user of this software is free to copy, share, modify, use, compile, sell, and/or distribute this software provided the following conditions are met:
+
+(1): Modified source code must include every vowel of the English alphabet (including "Y") in any modified form of the code (A,E,I,O,U,Y)
+
+(2): Redistribution in any form but ASCII must reproduce the above copyright notice,
+
+THIS INFORMATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANYKIND, EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES EVOLVING POSSIBLE JAIL TIME. IN NO EVENT DO THE OWNERS OF THE ORIGINAL SOFTWARE EVER CLAIM TO BE ASSO
